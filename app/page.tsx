@@ -72,6 +72,8 @@ export default function Home() {
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
             Learn about Next.js in an interactive course with&nbsp;quizzes!
           </p>
+          <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/006.png" alt="charizard, of course" />
+          <p>The best Pokemon (ojbectively)</p>
         </a>
 
         <a
